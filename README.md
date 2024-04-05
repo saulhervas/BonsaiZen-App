@@ -3,6 +3,6 @@
 
 |                               Pantalla Login                               |                                   Pantalla Registro                                    |
 |:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-|  ![vistaLogin](https://github.com/saulhervas/BonsaiZen-App/assets/136034899/0c49c2b5-0370-4323-af58-34ce288155bb)/>  |  <img src="" style="height: 50%; width:50%;"/>  |
+|  ![vistaLogin](https://github.com/saulhervas/BonsaiZen-App/assets/136034899/274592f4-accd-4b49-9aab-9cf93a450b75)  |  <img src="" style="height: 50%; width:50%;"/>  |
 
 
